@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="images-icon.png">../gfx/images-icon.png</file>
+        <file alias="mass-memory-icon.png">../gfx/mass-memory-icon.png</file>
+        <file alias="phone-icon.png">../gfx/phone-icon.png</file>
+        <file alias="sounds-icon.png">../gfx/sounds-icon.png</file>
+        <file alias="videos-icon.png">../gfx/videos-icon.png</file>
+        <file alias="background.svg">../gfx/background.svg</file>
+    </qresource>
+</RCC>
