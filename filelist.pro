@@ -1,4 +1,4 @@
-# Copyright (c) 2011-2012 Nokia Corporation.
+# Copyright (c) 2011-2014 Microsoft Mobile.
 
 QT += core gui declarative
 CONFIG += mobility qt-components
